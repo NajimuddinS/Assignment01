@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+    box-sizing: border-box;
+    padding-top: 3px;
+
+}
+
+.division{
+    
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 450px;
+    
+}
+
+
+.name {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.status {
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .company1{
+    height: 60px;
+    width: 295px;
+    /* max-width: 48px; */
+    box-sizing: border-box;
+    /* display: inline-block; */
+    /* align-content: center; */
+    /* height: 30%;
+    width: 30%; */
+  
+  }
+  .company2{
+    align-content: center;
+    height: 60px;
+    width: 295px
+    /* box-sizing: border-box; */
+    /* display: inline-block; */
+    /* align-content: center; */
+    /* height: 30%;
+    width: 30%; */
+  
+  }
+  .company3{
+    height: 60px;
+    width: 295px;
+    /* max-width: 48px; */
+    box-sizing: border-box;
+    /* display: inline-block; */
+    /* align-content: center; */
+    /* height: 30%;
+    width: 30%; */
+  
+  }
+  .company4{
+    height: 60px;
+    width: 295px;
+    /* max-width: 48px; */
+    box-sizing: border-box;
+    /* display: inline-block; */
+    /* align-content: center; */
+    /* height: 30%;
+    width: 30%; */
+  
+  }
